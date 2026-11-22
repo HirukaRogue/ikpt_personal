@@ -1,0 +1,21 @@
+{
+  "welcome": "Welcome back, Traveller!",
+  "explore": "Where shall we explore today?",
+  "gallery": "My Gallery",
+  "locations_found": "Locations Found",
+  "store": "Store",
+  "hints_available": "New hints available",
+  "settings": "Settings",
+  "music_profile": "Music and Profile",
+  "settings_title": "Settings",
+  "settings_subtitle": "Customize your journey",
+  "language": "Language",
+  "audio_prefs": "AUDIO PREFERENCES",
+  "sound_effects": "Sound Effects",
+  "sound_desc": "Game interactions and alerts",
+  "music": "Music",
+  "music_desc": "Relaxing background music",
+  "quote": "\"Every place has a story waiting to be remembered.\"",
+  "quiz_question": "Where in the world are we right now?",
+  "quiz_continue": "CONTINUE"
+}

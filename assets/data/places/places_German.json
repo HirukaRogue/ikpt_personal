@@ -1,0 +1,27 @@
+[
+  {
+    "placeName": "Matterhorn",
+    "countryBelonging": "Schweiz",
+    "description": "Ein ikonischer pyramidenförmiger Berg in den Alpen an der Grenze zwischen der Schweiz und Italien, berühmt für seine dramatische Silhouette und dafür, das Toblerone-Design inspiriert zu haben."
+  },
+  {
+    "placeName": "Hallstatt",
+    "countryBelonging": "Österreich",
+    "description": "Ein malerisches Dorf am See in Österreich, bekannt für seine Alpenlandschaft, die historische Salzgewinnung und seine postkartenreifen Ausblicke."
+  },
+  {
+    "placeName": "Lofoten Islands",
+    "countryBelonging": "Norwegen",
+    "description": "Eine beeindruckende arktische Inselgruppe im Norden Norwegens, bekannt für schroffe Berggipfel, Fischerdörfer und hervorragende Chancen, das Nordlicht zu sehen."
+  },
+  {
+    "placeName": "Kilimanjaro",
+    "countryBelonging": "Tansania",
+    "description": "Der Kilimandscharo ist Afrikas höchster Berg und ein berühmter freistehender Vulkan mit schneebedeckten Gipfeln nahe dem Äquator."
+  },
+  {
+    "placeName": "AngkorWat",
+    "countryBelonging": "Kambodscha",
+    "description": "Das größte religiöse Monument der Welt: Angkor Wat ist ein bemerkenswerter Tempelkomplex, der ursprünglich im 12. Jahrhundert erbaut wurde."
+  }
+]

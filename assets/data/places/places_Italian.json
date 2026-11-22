@@ -1,0 +1,27 @@
+[
+  {
+    "placeName": "Matterhorn",
+    "countryBelonging": "Svizzera",
+    "description": "Un’iconica montagna a forma di piramide nelle Alpi, al confine tra Svizzera e Italia, famosa per il suo profilo spettacolare e per aver ispirato il design del Toblerone."
+  },
+  {
+    "placeName": "Hallstatt",
+    "countryBelonging": "Austria",
+    "description": "Un pittoresco villaggio lacustre in Austria, noto per il paesaggio alpino, la storica produzione di sale e le sue vedute da cartolina."
+  },
+  {
+    "placeName": "Lofoten Islands",
+    "countryBelonging": "Norvegia",
+    "description": "Uno splendido arcipelago artico nel nord della Norvegia, noto per le sue cime appuntite, i villaggi di pescatori e le eccellenti possibilità di vedere l’aurora boreale."
+  },
+  {
+    "placeName": "Kilimanjaro",
+    "countryBelonging": "Tanzania",
+    "description": "Il Kilimangiaro è la montagna più alta dell’Africa e un celebre vulcano isolato con cime innevate vicino all’equatore."
+  },
+  {
+    "placeName": "AngkorWat",
+    "countryBelonging": "Cambogia",
+    "description": "Il più grande monumento religioso del mondo; Angkor Wat è uno straordinario complesso templare originariamente costruito nel XII secolo."
+  }
+]

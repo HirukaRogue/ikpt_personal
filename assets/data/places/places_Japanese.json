@@ -1,0 +1,27 @@
+[
+  {
+    "placeName": "Matterhorn",
+    "countryBelonging": "スイス",
+    "description": "アルプス山脈にある象徴的なピラミッド形の山で、スイスとイタリアの国境にまたがっています。劇的な山容で有名で、トブラローネのデザインの着想源としても知られています。"
+  },
+  {
+    "placeName": "Hallstatt",
+    "countryBelonging": "オーストリア",
+    "description": "オーストリアの湖畔にある絵のように美しい村で、アルプスの景観、歴史ある塩の生産、ポストカードのような眺めで知られています。"
+  },
+  {
+    "placeName": "Lofoten Islands",
+    "countryBelonging": "ノルウェー",
+    "description": "ノルウェー北部にある見事な北極圏の諸島で、鋭い山々、漁村、そしてオーロラ観賞の好適地として知られています。"
+  },
+  {
+    "placeName": "Kilimanjaro",
+    "countryBelonging": "タンザニア",
+    "description": "キリマンジャロ山はアフリカ最高峰で、赤道近くに雪をいただく独立峰の火山として有名です。"
+  },
+  {
+    "placeName": "AngkorWat",
+    "countryBelonging": "カンボジア",
+    "description": "世界最大の宗教建築であるアンコール・ワットは、12世紀に最初に建てられた壮大な寺院複合体です。"
+  }
+]

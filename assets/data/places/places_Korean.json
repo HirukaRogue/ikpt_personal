@@ -1,0 +1,27 @@
+[
+  {
+    "placeName": "Matterhorn",
+    "countryBelonging": "스위스",
+    "description": "마터호른은 스위스와 이탈리아의 국경에 있는 알프스의 상징적인 피라미드형 산으로, 극적인 윤곽과 토블론 디자인에 영감을 준 것으로 유명합니다."
+  },
+  {
+    "placeName": "Hallstatt",
+    "countryBelonging": "오스트리아",
+    "description": "할슈타트는 오스트리아의 아름다운 호숫가 마을로, 알프스 풍경과 오랜 소금 생산 역사, 엽서 같은 전망으로 잘 알려져 있습니다."
+  },
+  {
+    "placeName": "Lofoten Islands",
+    "countryBelonging": "노르웨이",
+    "description": "로포텐 제도는 노르웨이 북부의 아름다운 북극 군도로, 날카로운 산봉우리, 어촌 마을, 오로라를 보기 좋은 곳으로 유명합니다."
+  },
+  {
+    "placeName": "Kilimanjaro",
+    "countryBelonging": "탄자니아",
+    "description": "킬리만자로는 아프리카에서 가장 높은 산이며, 적도 근처에 눈 덮인 봉우리를 가진 유명한 독립 화산입니다."
+  },
+  {
+    "placeName": "AngkorWat",
+    "countryBelonging": "캄보디아",
+    "description": "앙코르와트는 세계에서 가장 큰 종교 기념물로, 12세기에 처음 건설된 놀라운 사원 복합체입니다."
+  }
+]

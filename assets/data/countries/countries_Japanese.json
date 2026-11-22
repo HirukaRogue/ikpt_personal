@@ -1,0 +1,1676 @@
+[
+  {
+    "capital": "Kabul",
+    "code": "af",
+    "continent": "アジア",
+    "flag_1x1": "assets/images/country_flags/1x1/af.svg",
+    "flag_4x3": "assets/images/country_flags/4x3/af.svg",
+    "iso": true,
+    "name": "アフガニスタン"
+  },
+  {
+    "capital": "Tirana",
+    "code": "al",
+    "continent": "ヨーロッパ",
+    "flag_1x1": "assets/images/country_flags/1x1/al.svg",
+    "flag_4x3": "assets/images/country_flags/4x3/al.svg",
+    "iso": true,
+    "name": "アルバニア"
+  },
+  {
+    "capital": "Algiers",
+    "code": "dz",
+    "continent": "アフリカ",
+    "flag_1x1": "assets/images/country_flags/1x1/dz.svg",
+    "flag_4x3": "assets/images/country_flags/4x3/dz.svg",
+    "iso": true,
+    "name": "アルジェリア"
+  },
+  {
+    "capital": "Andorra la Vella",
+    "code": "ad",
+    "continent": "ヨーロッパ",
+    "flag_1x1": "assets/images/country_flags/1x1/ad.svg",
+    "flag_4x3": "assets/images/country_flags/4x3/ad.svg",
+    "iso": true,
+    "name": "アンドラ"
+  },
+  {
+    "capital": "Luanda",
+    "code": "ao",
+    "continent": "アフリカ",
+    "flag_1x1": "assets/images/country_flags/1x1/ao.svg",
+    "flag_4x3": "assets/images/country_flags/4x3/ao.svg",
+    "iso": true,
+    "name": "アンゴラ"
+  },
+  {
+    "capital": "St. John's",
+    "code": "ag",
+    "continent": "北アメリカ",
+    "flag_1x1": "assets/images/country_flags/1x1/ag.svg",
+    "flag_4x3": "assets/images/country_flags/4x3/ag.svg",
+    "iso": true,
+    "name": "アンティグア・バーブーダ"
+  },
+  {
+    "capital": "Buenos Aires",
+    "code": "ar",
+    "continent": "南アメリカ",
+    "flag_1x1": "assets/images/country_flags/1x1/ar.svg",
+    "flag_4x3": "assets/images/country_flags/4x3/ar.svg",
+    "iso": true,
+    "name": "アルゼンチン"
+  },
+  {
+    "capital": "Yerevan",
+    "code": "am",
+    "continent": "アジア",
+    "flag_1x1": "assets/images/country_flags/1x1/am.svg",
+    "flag_4x3": "assets/images/country_flags/4x3/am.svg",
+    "iso": true,
+    "name": "アルメニア"
+  },
+  {
+    "capital": "Canberra",
+    "code": "au",
+    "continent": "オセアニア",
+    "flag_1x1": "assets/images/country_flags/1x1/au.svg",
+    "flag_4x3": "assets/images/country_flags/4x3/au.svg",
+    "iso": true,
+    "name": "オーストラリア"
+  },
+  {
+    "capital": "Vienna",
+    "code": "at",
+    "continent": "ヨーロッパ",
+    "flag_1x1": "assets/images/country_flags/1x1/at.svg",
+    "flag_4x3": "assets/images/country_flags/4x3/at.svg",
+    "iso": true,
+    "name": "オーストリア"
+  },
+  {
+    "capital": "Baku",
+    "code": "az",
+    "continent": "アジア",
+    "flag_1x1": "assets/images/country_flags/1x1/az.svg",
+    "flag_4x3": "assets/images/country_flags/4x3/az.svg",
+    "iso": true,
+    "name": "アゼルバイジャン"
+  },
+  {
+    "capital": "Nassau",
+    "code": "bs",
+    "continent": "北アメリカ",
+    "flag_1x1": "assets/images/country_flags/1x1/bs.svg",
+    "flag_4x3": "assets/images/country_flags/4x3/bs.svg",
+    "iso": true,
+    "name": "バハマ"
+  },
+  {
+    "capital": "Manama",
+    "code": "bh",
+    "continent": "アジア",
+    "flag_1x1": "assets/images/country_flags/1x1/bh.svg",
+    "flag_4x3": "assets/images/country_flags/4x3/bh.svg",
+    "iso": true,
+    "name": "バーレーン"
+  },
+  {
+    "capital": "Dhaka",
+    "code": "bd",
+    "continent": "アジア",
+    "flag_1x1": "assets/images/country_flags/1x1/bd.svg",
+    "flag_4x3": "assets/images/country_flags/4x3/bd.svg",
+    "iso": true,
+    "name": "バングラデシュ"
+  },
+  {
+    "capital": "Bridgetown",
+    "code": "bb",
+    "continent": "北アメリカ",
+    "flag_1x1": "assets/images/country_flags/1x1/bb.svg",
+    "flag_4x3": "assets/images/country_flags/4x3/bb.svg",
+    "iso": true,
+    "name": "バルバドス"
+  },
+  {
+    "capital": "Minsk",
+    "code": "by",
+    "continent": "ヨーロッパ",
+    "flag_1x1": "assets/images/country_flags/1x1/by.svg",
+    "flag_4x3": "assets/images/country_flags/4x3/by.svg",
+    "iso": true,
+    "name": "ベラルーシ"
+  },
+  {
+    "capital": "Brussels",
+    "code": "be",
+    "continent": "ヨーロッパ",
+    "flag_1x1": "assets/images/country_flags/1x1/be.svg",
+    "flag_4x3": "assets/images/country_flags/4x3/be.svg",
+    "iso": true,
+    "name": "ベルギー"
+  },
+  {
+    "capital": "Belmopan",
+    "code": "bz",
+    "continent": "北アメリカ",
+    "flag_1x1": "assets/images/country_flags/1x1/bz.svg",
+    "flag_4x3": "assets/images/country_flags/4x3/bz.svg",
+    "iso": true,
+    "name": "ベリーズ"
+  },
+  {
+    "capital": "Porto-Novo",
+    "code": "bj",
+    "continent": "アフリカ",
+    "flag_1x1": "assets/images/country_flags/1x1/bj.svg",
+    "flag_4x3": "assets/images/country_flags/4x3/bj.svg",
+    "iso": true,
+    "name": "ベナン"
+  },
+  {
+    "capital": "Thimphu",
+    "code": "bt",
+    "continent": "アジア",
+    "flag_1x1": "assets/images/country_flags/1x1/bt.svg",
+    "flag_4x3": "assets/images/country_flags/4x3/bt.svg",
+    "iso": true,
+    "name": "ブータン"
+  },
+  {
+    "capital": "Sucre",
+    "code": "bo",
+    "continent": "南アメリカ",
+    "flag_1x1": "assets/images/country_flags/1x1/bo.svg",
+    "flag_4x3": "assets/images/country_flags/4x3/bo.svg",
+    "iso": true,
+    "name": "ボリビア"
+  },
+  {
+    "capital": "Sarajevo",
+    "code": "ba",
+    "continent": "ヨーロッパ",
+    "flag_1x1": "assets/images/country_flags/1x1/ba.svg",
+    "flag_4x3": "assets/images/country_flags/4x3/ba.svg",
+    "iso": true,
+    "name": "ボスニア・ヘルツェゴビナ"
+  },
+  {
+    "capital": "Gaborone",
+    "code": "bw",
+    "continent": "アフリカ",
+    "flag_1x1": "assets/images/country_flags/1x1/bw.svg",
+    "flag_4x3": "assets/images/country_flags/4x3/bw.svg",
+    "iso": true,
+    "name": "ボツワナ"
+  },
+  {
+    "capital": "Brasília",
+    "code": "br",
+    "continent": "南アメリカ",
+    "flag_1x1": "assets/images/country_flags/1x1/br.svg",
+    "flag_4x3": "assets/images/country_flags/4x3/br.svg",
+    "iso": true,
+    "name": "ブラジル"
+  },
+  {
+    "capital": "Sofia",
+    "code": "bg",
+    "continent": "ヨーロッパ",
+    "flag_1x1": "assets/images/country_flags/1x1/bg.svg",
+    "flag_4x3": "assets/images/country_flags/4x3/bg.svg",
+    "iso": true,
+    "name": "ブルガリア"
+  },
+  {
+    "capital": "Ouagadougou",
+    "code": "bf",
+    "continent": "アフリカ",
+    "flag_1x1": "assets/images/country_flags/1x1/bf.svg",
+    "flag_4x3": "assets/images/country_flags/4x3/bf.svg",
+    "iso": true,
+    "name": "ブルキナファソ"
+  },
+  {
+    "capital": "Bujumbura",
+    "code": "bi",
+    "continent": "アフリカ",
+    "flag_1x1": "assets/images/country_flags/1x1/bi.svg",
+    "flag_4x3": "assets/images/country_flags/4x3/bi.svg",
+    "iso": true,
+    "name": "ブルンジ"
+  },
+  {
+    "capital": "Praia",
+    "code": "cv",
+    "continent": "アフリカ",
+    "flag_1x1": "assets/images/country_flags/1x1/cv.svg",
+    "flag_4x3": "assets/images/country_flags/4x3/cv.svg",
+    "iso": true,
+    "name": "カーボベルデ"
+  },
+  {
+    "capital": "Phnom Penh",
+    "code": "kh",
+    "continent": "アジア",
+    "flag_1x1": "assets/images/country_flags/1x1/kh.svg",
+    "flag_4x3": "assets/images/country_flags/4x3/kh.svg",
+    "iso": true,
+    "name": "カンボジア"
+  },
+  {
+    "capital": "Yaoundé",
+    "code": "cm",
+    "continent": "アフリカ",
+    "flag_1x1": "assets/images/country_flags/1x1/cm.svg",
+    "flag_4x3": "assets/images/country_flags/4x3/cm.svg",
+    "iso": true,
+    "name": "カメルーン"
+  },
+  {
+    "capital": "Ottawa",
+    "code": "ca",
+    "continent": "北アメリカ",
+    "flag_1x1": "assets/images/country_flags/1x1/ca.svg",
+    "flag_4x3": "assets/images/country_flags/4x3/ca.svg",
+    "iso": true,
+    "name": "カナダ"
+  },
+  {
+    "capital": "Bangui",
+    "code": "cf",
+    "continent": "アフリカ",
+    "flag_1x1": "assets/images/country_flags/1x1/cf.svg",
+    "flag_4x3": "assets/images/country_flags/4x3/cf.svg",
+    "iso": true,
+    "name": "中央アフリカ共和国"
+  },
+  {
+    "capital": "N'Djamena",
+    "code": "td",
+    "continent": "アフリカ",
+    "flag_1x1": "assets/images/country_flags/1x1/td.svg",
+    "flag_4x3": "assets/images/country_flags/4x3/td.svg",
+    "iso": true,
+    "name": "チャド"
+  },
+  {
+    "capital": "Santiago",
+    "code": "cl",
+    "continent": "南アメリカ",
+    "flag_1x1": "assets/images/country_flags/1x1/cl.svg",
+    "flag_4x3": "assets/images/country_flags/4x3/cl.svg",
+    "iso": true,
+    "name": "チリ"
+  },
+  {
+    "capital": "Beijing",
+    "code": "cn",
+    "continent": "アジア",
+    "flag_1x1": "assets/images/country_flags/1x1/cn.svg",
+    "flag_4x3": "assets/images/country_flags/4x3/cn.svg",
+    "iso": true,
+    "name": "中国"
+  },
+  {
+    "capital": "Bogotá",
+    "code": "co",
+    "continent": "南アメリカ",
+    "flag_1x1": "assets/images/country_flags/1x1/co.svg",
+    "flag_4x3": "assets/images/country_flags/4x3/co.svg",
+    "iso": true,
+    "name": "コロンビア"
+  },
+  {
+    "capital": "Moroni",
+    "code": "km",
+    "continent": "アフリカ",
+    "flag_1x1": "assets/images/country_flags/1x1/km.svg",
+    "flag_4x3": "assets/images/country_flags/4x3/km.svg",
+    "iso": true,
+    "name": "コモロ"
+  },
+  {
+    "capital": "San José",
+    "code": "cr",
+    "continent": "北アメリカ",
+    "flag_1x1": "assets/images/country_flags/1x1/cr.svg",
+    "flag_4x3": "assets/images/country_flags/4x3/cr.svg",
+    "iso": true,
+    "name": "コスタリカ"
+  },
+  {
+    "capital": "Zagreb",
+    "code": "hr",
+    "continent": "ヨーロッパ",
+    "flag_1x1": "assets/images/country_flags/1x1/hr.svg",
+    "flag_4x3": "assets/images/country_flags/4x3/hr.svg",
+    "iso": true,
+    "name": "クロアチア"
+  },
+  {
+    "capital": "Havana",
+    "code": "cu",
+    "continent": "北アメリカ",
+    "flag_1x1": "assets/images/country_flags/1x1/cu.svg",
+    "flag_4x3": "assets/images/country_flags/4x3/cu.svg",
+    "iso": true,
+    "name": "キューバ"
+  },
+  {
+    "capital": "Nicosia",
+    "code": "cy",
+    "continent": "ヨーロッパ",
+    "flag_1x1": "assets/images/country_flags/1x1/cy.svg",
+    "flag_4x3": "assets/images/country_flags/4x3/cy.svg",
+    "iso": true,
+    "name": "キプロス"
+  },
+  {
+    "capital": "Kinshasa",
+    "code": "cd",
+    "continent": "アフリカ",
+    "flag_1x1": "assets/images/country_flags/1x1/cd.svg",
+    "flag_4x3": "assets/images/country_flags/4x3/cd.svg",
+    "iso": true,
+    "name": "コンゴ民主共和国(キンシャサ)"
+  },
+  {
+    "capital": "Copenhagen",
+    "code": "dk",
+    "continent": "ヨーロッパ",
+    "flag_1x1": "assets/images/country_flags/1x1/dk.svg",
+    "flag_4x3": "assets/images/country_flags/4x3/dk.svg",
+    "iso": true,
+    "name": "デンマーク"
+  },
+  {
+    "capital": "Djibouti",
+    "code": "dj",
+    "continent": "アフリカ",
+    "flag_1x1": "assets/images/country_flags/1x1/dj.svg",
+    "flag_4x3": "assets/images/country_flags/4x3/dj.svg",
+    "iso": true,
+    "name": "ジブチ"
+  },
+  {
+    "capital": "Roseau",
+    "code": "dm",
+    "continent": "北アメリカ",
+    "flag_1x1": "assets/images/country_flags/1x1/dm.svg",
+    "flag_4x3": "assets/images/country_flags/4x3/dm.svg",
+    "iso": true,
+    "name": "ドミニカ国"
+  },
+  {
+    "capital": "Santo Domingo",
+    "code": "do",
+    "continent": "北アメリカ",
+    "flag_1x1": "assets/images/country_flags/1x1/do.svg",
+    "flag_4x3": "assets/images/country_flags/4x3/do.svg",
+    "iso": true,
+    "name": "ドミニカ共和国"
+  },
+  {
+    "capital": "Quito",
+    "code": "ec",
+    "continent": "南アメリカ",
+    "flag_1x1": "assets/images/country_flags/1x1/ec.svg",
+    "flag_4x3": "assets/images/country_flags/4x3/ec.svg",
+    "iso": true,
+    "name": "エクアドル"
+  },
+  {
+    "capital": "Cairo",
+    "code": "eg",
+    "continent": "アフリカ",
+    "flag_1x1": "assets/images/country_flags/1x1/eg.svg",
+    "flag_4x3": "assets/images/country_flags/4x3/eg.svg",
+    "iso": true,
+    "name": "エジプト"
+  },
+  {
+    "capital": "San Salvador",
+    "code": "sv",
+    "continent": "北アメリカ",
+    "flag_1x1": "assets/images/country_flags/1x1/sv.svg",
+    "flag_4x3": "assets/images/country_flags/4x3/sv.svg",
+    "iso": true,
+    "name": "エルサルバドル"
+  },
+  {
+    "capital": "Malabo",
+    "code": "gq",
+    "continent": "アフリカ",
+    "flag_1x1": "assets/images/country_flags/1x1/gq.svg",
+    "flag_4x3": "assets/images/country_flags/4x3/gq.svg",
+    "iso": true,
+    "name": "赤道ギニア"
+  },
+  {
+    "capital": "Asmara",
+    "code": "er",
+    "continent": "アフリカ",
+    "flag_1x1": "assets/images/country_flags/1x1/er.svg",
+    "flag_4x3": "assets/images/country_flags/4x3/er.svg",
+    "iso": true,
+    "name": "エリトリア"
+  },
+  {
+    "capital": "Tallinn",
+    "code": "ee",
+    "continent": "ヨーロッパ",
+    "flag_1x1": "assets/images/country_flags/1x1/ee.svg",
+    "flag_4x3": "assets/images/country_flags/4x3/ee.svg",
+    "iso": true,
+    "name": "エストニア"
+  },
+  {
+    "capital": "Lobamba, Mbabane",
+    "code": "sz",
+    "continent": "アフリカ",
+    "flag_1x1": "assets/images/country_flags/1x1/sz.svg",
+    "flag_4x3": "assets/images/country_flags/4x3/sz.svg",
+    "iso": true,
+    "name": "エスワティニ"
+  },
+  {
+    "capital": "Addis Ababa",
+    "code": "et",
+    "continent": "アフリカ",
+    "flag_1x1": "assets/images/country_flags/1x1/et.svg",
+    "flag_4x3": "assets/images/country_flags/4x3/et.svg",
+    "iso": true,
+    "name": "エチオピア"
+  },
+  {
+    "capital": "Suva",
+    "code": "fj",
+    "continent": "オセアニア",
+    "flag_1x1": "assets/images/country_flags/1x1/fj.svg",
+    "flag_4x3": "assets/images/country_flags/4x3/fj.svg",
+    "iso": true,
+    "name": "フィジー"
+  },
+  {
+    "capital": "Helsinki",
+    "code": "fi",
+    "continent": "ヨーロッパ",
+    "flag_1x1": "assets/images/country_flags/1x1/fi.svg",
+    "flag_4x3": "assets/images/country_flags/4x3/fi.svg",
+    "iso": true,
+    "name": "フィンランド"
+  },
+  {
+    "capital": "Paris",
+    "code": "fr",
+    "continent": "ヨーロッパ",
+    "flag_1x1": "assets/images/country_flags/1x1/fr.svg",
+    "flag_4x3": "assets/images/country_flags/4x3/fr.svg",
+    "iso": true,
+    "name": "フランス"
+  },
+  {
+    "capital": "Libreville",
+    "code": "ga",
+    "continent": "アフリカ",
+    "flag_1x1": "assets/images/country_flags/1x1/ga.svg",
+    "flag_4x3": "assets/images/country_flags/4x3/ga.svg",
+    "iso": true,
+    "name": "ガボン"
+  },
+  {
+    "capital": "Banjul",
+    "code": "gm",
+    "continent": "アフリカ",
+    "flag_1x1": "assets/images/country_flags/1x1/gm.svg",
+    "flag_4x3": "assets/images/country_flags/4x3/gm.svg",
+    "iso": true,
+    "name": "ガンビア"
+  },
+  {
+    "capital": "Tbilisi",
+    "code": "ge",
+    "continent": "アジア",
+    "flag_1x1": "assets/images/country_flags/1x1/ge.svg",
+    "flag_4x3": "assets/images/country_flags/4x3/ge.svg",
+    "iso": true,
+    "name": "ジョージア"
+  },
+  {
+    "capital": "Berlin",
+    "code": "de",
+    "continent": "ヨーロッパ",
+    "flag_1x1": "assets/images/country_flags/1x1/de.svg",
+    "flag_4x3": "assets/images/country_flags/4x3/de.svg",
+    "iso": true,
+    "name": "ドイツ"
+  },
+  {
+    "capital": "Accra",
+    "code": "gh",
+    "continent": "アフリカ",
+    "flag_1x1": "assets/images/country_flags/1x1/gh.svg",
+    "flag_4x3": "assets/images/country_flags/4x3/gh.svg",
+    "iso": true,
+    "name": "ガーナ"
+  },
+  {
+    "capital": "Athens",
+    "code": "gr",
+    "continent": "ヨーロッパ",
+    "flag_1x1": "assets/images/country_flags/1x1/gr.svg",
+    "flag_4x3": "assets/images/country_flags/4x3/gr.svg",
+    "iso": true,
+    "name": "ギリシャ"
+  },
+  {
+    "capital": "St. George's",
+    "code": "gd",
+    "continent": "北アメリカ",
+    "flag_1x1": "assets/images/country_flags/1x1/gd.svg",
+    "flag_4x3": "assets/images/country_flags/4x3/gd.svg",
+    "iso": true,
+    "name": "グレナダ"
+  },
+  {
+    "capital": "Guatemala City",
+    "code": "gt",
+    "continent": "北アメリカ",
+    "flag_1x1": "assets/images/country_flags/1x1/gt.svg",
+    "flag_4x3": "assets/images/country_flags/4x3/gt.svg",
+    "iso": true,
+    "name": "グアテマラ"
+  },
+  {
+    "capital": "Conakry",
+    "code": "gn",
+    "continent": "アフリカ",
+    "flag_1x1": "assets/images/country_flags/1x1/gn.svg",
+    "flag_4x3": "assets/images/country_flags/4x3/gn.svg",
+    "iso": true,
+    "name": "ギニア"
+  },
+  {
+    "capital": "Bissau",
+    "code": "gw",
+    "continent": "アフリカ",
+    "flag_1x1": "assets/images/country_flags/1x1/gw.svg",
+    "flag_4x3": "assets/images/country_flags/4x3/gw.svg",
+    "iso": true,
+    "name": "ギニアビサウ"
+  },
+  {
+    "capital": "Georgetown",
+    "code": "gy",
+    "continent": "南アメリカ",
+    "flag_1x1": "assets/images/country_flags/1x1/gy.svg",
+    "flag_4x3": "assets/images/country_flags/4x3/gy.svg",
+    "iso": true,
+    "name": "ガイアナ"
+  },
+  {
+    "capital": "Port-au-Prince",
+    "code": "ht",
+    "continent": "北アメリカ",
+    "flag_1x1": "assets/images/country_flags/1x1/ht.svg",
+    "flag_4x3": "assets/images/country_flags/4x3/ht.svg",
+    "iso": true,
+    "name": "ハイチ"
+  },
+  {
+    "capital": "バチカン市国",
+    "code": "va",
+    "continent": "ヨーロッパ",
+    "flag_1x1": "assets/images/country_flags/1x1/va.svg",
+    "flag_4x3": "assets/images/country_flags/4x3/va.svg",
+    "iso": true,
+    "name": "聖座"
+  },
+  {
+    "capital": "Tegucigalpa",
+    "code": "hn",
+    "continent": "北アメリカ",
+    "flag_1x1": "assets/images/country_flags/1x1/hn.svg",
+    "flag_4x3": "assets/images/country_flags/4x3/hn.svg",
+    "iso": true,
+    "name": "ホンジュラス"
+  },
+  {
+    "capital": "Budapest",
+    "code": "hu",
+    "continent": "ヨーロッパ",
+    "flag_1x1": "assets/images/country_flags/1x1/hu.svg",
+    "flag_4x3": "assets/images/country_flags/4x3/hu.svg",
+    "iso": true,
+    "name": "ハンガリー"
+  },
+  {
+    "capital": "Reykjavik",
+    "code": "is",
+    "continent": "ヨーロッパ",
+    "flag_1x1": "assets/images/country_flags/1x1/is.svg",
+    "flag_4x3": "assets/images/country_flags/4x3/is.svg",
+    "iso": true,
+    "name": "アイスランド"
+  },
+  {
+    "capital": "New Delhi",
+    "code": "in",
+    "continent": "アジア",
+    "flag_1x1": "assets/images/country_flags/1x1/in.svg",
+    "flag_4x3": "assets/images/country_flags/4x3/in.svg",
+    "iso": true,
+    "name": "インド"
+  },
+  {
+    "capital": "Jakarta",
+    "code": "id",
+    "continent": "アジア",
+    "flag_1x1": "assets/images/country_flags/1x1/id.svg",
+    "flag_4x3": "assets/images/country_flags/4x3/id.svg",
+    "iso": true,
+    "name": "インドネシア"
+  },
+  {
+    "capital": "Tehran",
+    "code": "ir",
+    "continent": "アジア",
+    "flag_1x1": "assets/images/country_flags/1x1/ir.svg",
+    "flag_4x3": "assets/images/country_flags/4x3/ir.svg",
+    "iso": true,
+    "name": "イラン"
+  },
+  {
+    "capital": "Baghdad",
+    "code": "iq",
+    "continent": "アジア",
+    "flag_1x1": "assets/images/country_flags/1x1/iq.svg",
+    "flag_4x3": "assets/images/country_flags/4x3/iq.svg",
+    "iso": true,
+    "name": "イラク"
+  },
+  {
+    "capital": "Dublin",
+    "code": "ie",
+    "continent": "ヨーロッパ",
+    "flag_1x1": "assets/images/country_flags/1x1/ie.svg",
+    "flag_4x3": "assets/images/country_flags/4x3/ie.svg",
+    "iso": true,
+    "name": "アイルランド"
+  },
+  {
+    "capital": "Jerusalem",
+    "code": "il",
+    "continent": "アジア",
+    "flag_1x1": "assets/images/country_flags/1x1/il.svg",
+    "flag_4x3": "assets/images/country_flags/4x3/il.svg",
+    "iso": true,
+    "name": "イスラエル"
+  },
+  {
+    "capital": "Rome",
+    "code": "it",
+    "continent": "ヨーロッパ",
+    "flag_1x1": "assets/images/country_flags/1x1/it.svg",
+    "flag_4x3": "assets/images/country_flags/4x3/it.svg",
+    "iso": true,
+    "name": "イタリア"
+  },
+  {
+    "capital": "Kingston",
+    "code": "jm",
+    "continent": "北アメリカ",
+    "flag_1x1": "assets/images/country_flags/1x1/jm.svg",
+    "flag_4x3": "assets/images/country_flags/4x3/jm.svg",
+    "iso": true,
+    "name": "ジャマイカ"
+  },
+  {
+    "capital": "Tokyo",
+    "code": "jp",
+    "continent": "アジア",
+    "flag_1x1": "assets/images/country_flags/1x1/jp.svg",
+    "flag_4x3": "assets/images/country_flags/4x3/jp.svg",
+    "iso": true,
+    "name": "日本"
+  },
+  {
+    "capital": "Amman",
+    "code": "jo",
+    "continent": "アジア",
+    "flag_1x1": "assets/images/country_flags/1x1/jo.svg",
+    "flag_4x3": "assets/images/country_flags/4x3/jo.svg",
+    "iso": true,
+    "name": "ヨルダン"
+  },
+  {
+    "capital": "Astana",
+    "code": "kz",
+    "continent": "アジア",
+    "flag_1x1": "assets/images/country_flags/1x1/kz.svg",
+    "flag_4x3": "assets/images/country_flags/4x3/kz.svg",
+    "iso": true,
+    "name": "カザフスタン"
+  },
+  {
+    "capital": "Nairobi",
+    "code": "ke",
+    "continent": "アフリカ",
+    "flag_1x1": "assets/images/country_flags/1x1/ke.svg",
+    "flag_4x3": "assets/images/country_flags/4x3/ke.svg",
+    "iso": true,
+    "name": "ケニア"
+  },
+  {
+    "capital": "South Tarawa",
+    "code": "ki",
+    "continent": "オセアニア",
+    "flag_1x1": "assets/images/country_flags/1x1/ki.svg",
+    "flag_4x3": "assets/images/country_flags/4x3/ki.svg",
+    "iso": true,
+    "name": "キリバス"
+  },
+  {
+    "capital": "Kuwait City",
+    "code": "kw",
+    "continent": "アジア",
+    "flag_1x1": "assets/images/country_flags/1x1/kw.svg",
+    "flag_4x3": "assets/images/country_flags/4x3/kw.svg",
+    "iso": true,
+    "name": "クウェート"
+  },
+  {
+    "capital": "Bishkek",
+    "code": "kg",
+    "continent": "アジア",
+    "flag_1x1": "assets/images/country_flags/1x1/kg.svg",
+    "flag_4x3": "assets/images/country_flags/4x3/kg.svg",
+    "iso": true,
+    "name": "キルギス"
+  },
+  {
+    "capital": "Vientiane",
+    "code": "la",
+    "continent": "アジア",
+    "flag_1x1": "assets/images/country_flags/1x1/la.svg",
+    "flag_4x3": "assets/images/country_flags/4x3/la.svg",
+    "iso": true,
+    "name": "ラオス"
+  },
+  {
+    "capital": "Riga",
+    "code": "lv",
+    "continent": "ヨーロッパ",
+    "flag_1x1": "assets/images/country_flags/1x1/lv.svg",
+    "flag_4x3": "assets/images/country_flags/4x3/lv.svg",
+    "iso": true,
+    "name": "ラトビア"
+  },
+  {
+    "capital": "Beirut",
+    "code": "lb",
+    "continent": "アジア",
+    "flag_1x1": "assets/images/country_flags/1x1/lb.svg",
+    "flag_4x3": "assets/images/country_flags/4x3/lb.svg",
+    "iso": true,
+    "name": "レバノン"
+  },
+  {
+    "capital": "Maseru",
+    "code": "ls",
+    "continent": "アフリカ",
+    "flag_1x1": "assets/images/country_flags/1x1/ls.svg",
+    "flag_4x3": "assets/images/country_flags/4x3/ls.svg",
+    "iso": true,
+    "name": "レソト"
+  },
+  {
+    "capital": "Monrovia",
+    "code": "lr",
+    "continent": "アフリカ",
+    "flag_1x1": "assets/images/country_flags/1x1/lr.svg",
+    "flag_4x3": "assets/images/country_flags/4x3/lr.svg",
+    "iso": true,
+    "name": "リベリア"
+  },
+  {
+    "capital": "Tripoli",
+    "code": "ly",
+    "continent": "アフリカ",
+    "flag_1x1": "assets/images/country_flags/1x1/ly.svg",
+    "flag_4x3": "assets/images/country_flags/4x3/ly.svg",
+    "iso": true,
+    "name": "リビア"
+  },
+  {
+    "capital": "Vaduz",
+    "code": "li",
+    "continent": "ヨーロッパ",
+    "flag_1x1": "assets/images/country_flags/1x1/li.svg",
+    "flag_4x3": "assets/images/country_flags/4x3/li.svg",
+    "iso": true,
+    "name": "リヒテンシュタイン"
+  },
+  {
+    "capital": "Vilnius",
+    "code": "lt",
+    "continent": "ヨーロッパ",
+    "flag_1x1": "assets/images/country_flags/1x1/lt.svg",
+    "flag_4x3": "assets/images/country_flags/4x3/lt.svg",
+    "iso": true,
+    "name": "リトアニア"
+  },
+  {
+    "capital": "Luxembourg City",
+    "code": "lu",
+    "continent": "ヨーロッパ",
+    "flag_1x1": "assets/images/country_flags/1x1/lu.svg",
+    "flag_4x3": "assets/images/country_flags/4x3/lu.svg",
+    "iso": true,
+    "name": "ルクセンブルク"
+  },
+  {
+    "capital": "Antananarivo",
+    "code": "mg",
+    "continent": "アフリカ",
+    "flag_1x1": "assets/images/country_flags/1x1/mg.svg",
+    "flag_4x3": "assets/images/country_flags/4x3/mg.svg",
+    "iso": true,
+    "name": "マダガスカル"
+  },
+  {
+    "capital": "Lilongwe",
+    "code": "mw",
+    "continent": "アフリカ",
+    "flag_1x1": "assets/images/country_flags/1x1/mw.svg",
+    "flag_4x3": "assets/images/country_flags/4x3/mw.svg",
+    "iso": true,
+    "name": "マラウイ"
+  },
+  {
+    "capital": "Kuala Lumpur",
+    "code": "my",
+    "continent": "アジア",
+    "flag_1x1": "assets/images/country_flags/1x1/my.svg",
+    "flag_4x3": "assets/images/country_flags/4x3/my.svg",
+    "iso": true,
+    "name": "マレーシア"
+  },
+  {
+    "capital": "Malé",
+    "code": "mv",
+    "continent": "アジア",
+    "flag_1x1": "assets/images/country_flags/1x1/mv.svg",
+    "flag_4x3": "assets/images/country_flags/4x3/mv.svg",
+    "iso": true,
+    "name": "モルディブ"
+  },
+  {
+    "capital": "Bamako",
+    "code": "ml",
+    "continent": "アフリカ",
+    "flag_1x1": "assets/images/country_flags/1x1/ml.svg",
+    "flag_4x3": "assets/images/country_flags/4x3/ml.svg",
+    "iso": true,
+    "name": "マリ"
+  },
+  {
+    "capital": "Valletta",
+    "code": "mt",
+    "continent": "ヨーロッパ",
+    "flag_1x1": "assets/images/country_flags/1x1/mt.svg",
+    "flag_4x3": "assets/images/country_flags/4x3/mt.svg",
+    "iso": true,
+    "name": "マルタ"
+  },
+  {
+    "capital": "Majuro",
+    "code": "mh",
+    "continent": "オセアニア",
+    "flag_1x1": "assets/images/country_flags/1x1/mh.svg",
+    "flag_4x3": "assets/images/country_flags/4x3/mh.svg",
+    "iso": true,
+    "name": "マーシャル諸島"
+  },
+  {
+    "capital": "Nouakchott",
+    "code": "mr",
+    "continent": "アフリカ",
+    "flag_1x1": "assets/images/country_flags/1x1/mr.svg",
+    "flag_4x3": "assets/images/country_flags/4x3/mr.svg",
+    "iso": true,
+    "name": "モーリタニア"
+  },
+  {
+    "capital": "Port Louis",
+    "code": "mu",
+    "continent": "アフリカ",
+    "flag_1x1": "assets/images/country_flags/1x1/mu.svg",
+    "flag_4x3": "assets/images/country_flags/4x3/mu.svg",
+    "iso": true,
+    "name": "モーリシャス"
+  },
+  {
+    "capital": "Mexico City",
+    "code": "mx",
+    "continent": "北アメリカ",
+    "flag_1x1": "assets/images/country_flags/1x1/mx.svg",
+    "flag_4x3": "assets/images/country_flags/4x3/mx.svg",
+    "iso": true,
+    "name": "メキシコ"
+  },
+  {
+    "capital": "Chișinău",
+    "code": "md",
+    "continent": "ヨーロッパ",
+    "flag_1x1": "assets/images/country_flags/1x1/md.svg",
+    "flag_4x3": "assets/images/country_flags/4x3/md.svg",
+    "iso": true,
+    "name": "モルドバ"
+  },
+  {
+    "capital": "Monaco",
+    "code": "mc",
+    "continent": "ヨーロッパ",
+    "flag_1x1": "assets/images/country_flags/1x1/mc.svg",
+    "flag_4x3": "assets/images/country_flags/4x3/mc.svg",
+    "iso": true,
+    "name": "モナコ"
+  },
+  {
+    "capital": "Ulaanbaatar",
+    "code": "mn",
+    "continent": "アジア",
+    "flag_1x1": "assets/images/country_flags/1x1/mn.svg",
+    "flag_4x3": "assets/images/country_flags/4x3/mn.svg",
+    "iso": true,
+    "name": "モンゴル"
+  },
+  {
+    "capital": "Podgorica",
+    "code": "me",
+    "continent": "ヨーロッパ",
+    "flag_1x1": "assets/images/country_flags/1x1/me.svg",
+    "flag_4x3": "assets/images/country_flags/4x3/me.svg",
+    "iso": true,
+    "name": "モンテネグロ"
+  },
+  {
+    "capital": "Rabat",
+    "code": "ma",
+    "continent": "アフリカ",
+    "flag_1x1": "assets/images/country_flags/1x1/ma.svg",
+    "flag_4x3": "assets/images/country_flags/4x3/ma.svg",
+    "iso": true,
+    "name": "モロッコ"
+  },
+  {
+    "capital": "Maputo",
+    "code": "mz",
+    "continent": "アフリカ",
+    "flag_1x1": "assets/images/country_flags/1x1/mz.svg",
+    "flag_4x3": "assets/images/country_flags/4x3/mz.svg",
+    "iso": true,
+    "name": "モザンビーク"
+  },
+  {
+    "capital": "Naypyidaw",
+    "code": "mm",
+    "continent": "アジア",
+    "flag_1x1": "assets/images/country_flags/1x1/mm.svg",
+    "flag_4x3": "assets/images/country_flags/4x3/mm.svg",
+    "iso": true,
+    "name": "ミャンマー (ビルマ)"
+  },
+  {
+    "capital": "Windhoek",
+    "code": "na",
+    "continent": "アフリカ",
+    "flag_1x1": "assets/images/country_flags/1x1/na.svg",
+    "flag_4x3": "assets/images/country_flags/4x3/na.svg",
+    "iso": true,
+    "name": "ナミビア"
+  },
+  {
+    "capital": "Yaren District",
+    "code": "nr",
+    "continent": "オセアニア",
+    "flag_1x1": "assets/images/country_flags/1x1/nr.svg",
+    "flag_4x3": "assets/images/country_flags/4x3/nr.svg",
+    "iso": true,
+    "name": "ナウル"
+  },
+  {
+    "capital": "Kathmandu",
+    "code": "np",
+    "continent": "アジア",
+    "flag_1x1": "assets/images/country_flags/1x1/np.svg",
+    "flag_4x3": "assets/images/country_flags/4x3/np.svg",
+    "iso": true,
+    "name": "ネパール"
+  },
+  {
+    "capital": "Amsterdam",
+    "code": "nl",
+    "continent": "ヨーロッパ",
+    "flag_1x1": "assets/images/country_flags/1x1/nl.svg",
+    "flag_4x3": "assets/images/country_flags/4x3/nl.svg",
+    "iso": true,
+    "name": "オランダ"
+  },
+  {
+    "capital": "Wellington",
+    "code": "nz",
+    "continent": "オセアニア",
+    "flag_1x1": "assets/images/country_flags/1x1/nz.svg",
+    "flag_4x3": "assets/images/country_flags/4x3/nz.svg",
+    "iso": true,
+    "name": "ニュージーランド"
+  },
+  {
+    "capital": "Managua",
+    "code": "ni",
+    "continent": "北アメリカ",
+    "flag_1x1": "assets/images/country_flags/1x1/ni.svg",
+    "flag_4x3": "assets/images/country_flags/4x3/ni.svg",
+    "iso": true,
+    "name": "ニカラグア"
+  },
+  {
+    "capital": "Niamey",
+    "code": "ne",
+    "continent": "アフリカ",
+    "flag_1x1": "assets/images/country_flags/1x1/ne.svg",
+    "flag_4x3": "assets/images/country_flags/4x3/ne.svg",
+    "iso": true,
+    "name": "ニジェール"
+  },
+  {
+    "capital": "Abuja",
+    "code": "ng",
+    "continent": "アフリカ",
+    "flag_1x1": "assets/images/country_flags/1x1/ng.svg",
+    "flag_4x3": "assets/images/country_flags/4x3/ng.svg",
+    "iso": true,
+    "name": "ナイジェリア"
+  },
+  {
+    "capital": "Pyongyang",
+    "code": "kp",
+    "continent": "アジア",
+    "flag_1x1": "assets/images/country_flags/1x1/kp.svg",
+    "flag_4x3": "assets/images/country_flags/4x3/kp.svg",
+    "iso": true,
+    "name": "北朝鮮"
+  },
+  {
+    "capital": "Skopje",
+    "code": "mk",
+    "continent": "ヨーロッパ",
+    "flag_1x1": "assets/images/country_flags/1x1/mk.svg",
+    "flag_4x3": "assets/images/country_flags/4x3/mk.svg",
+    "iso": true,
+    "name": "北マケドニア"
+  },
+  {
+    "capital": "Oslo",
+    "code": "no",
+    "continent": "ヨーロッパ",
+    "flag_1x1": "assets/images/country_flags/1x1/no.svg",
+    "flag_4x3": "assets/images/country_flags/4x3/no.svg",
+    "iso": true,
+    "name": "ノルウェー"
+  },
+  {
+    "capital": "Muscat",
+    "code": "om",
+    "continent": "アジア",
+    "flag_1x1": "assets/images/country_flags/1x1/om.svg",
+    "flag_4x3": "assets/images/country_flags/4x3/om.svg",
+    "iso": true,
+    "name": "オマーン"
+  },
+  {
+    "capital": "Islamabad",
+    "code": "pk",
+    "continent": "アジア",
+    "flag_1x1": "assets/images/country_flags/1x1/pk.svg",
+    "flag_4x3": "assets/images/country_flags/4x3/pk.svg",
+    "iso": true,
+    "name": "パキスタン"
+  },
+  {
+    "capital": "Ngerulmud",
+    "code": "pw",
+    "continent": "オセアニア",
+    "flag_1x1": "assets/images/country_flags/1x1/pw.svg",
+    "flag_4x3": "assets/images/country_flags/4x3/pw.svg",
+    "iso": true,
+    "name": "パラオ"
+  },
+  {
+    "capital": "Panama City",
+    "code": "pa",
+    "continent": "北アメリカ",
+    "flag_1x1": "assets/images/country_flags/1x1/pa.svg",
+    "flag_4x3": "assets/images/country_flags/4x3/pa.svg",
+    "iso": true,
+    "name": "パナマ"
+  },
+  {
+    "capital": "Port Moresby",
+    "code": "pg",
+    "continent": "オセアニア",
+    "flag_1x1": "assets/images/country_flags/1x1/pg.svg",
+    "flag_4x3": "assets/images/country_flags/4x3/pg.svg",
+    "iso": true,
+    "name": "パプアニューギニア"
+  },
+  {
+    "capital": "Asunción",
+    "code": "py",
+    "continent": "南アメリカ",
+    "flag_1x1": "assets/images/country_flags/1x1/py.svg",
+    "flag_4x3": "assets/images/country_flags/4x3/py.svg",
+    "iso": true,
+    "name": "パラグアイ"
+  },
+  {
+    "capital": "Lima",
+    "code": "pe",
+    "continent": "南アメリカ",
+    "flag_1x1": "assets/images/country_flags/1x1/pe.svg",
+    "flag_4x3": "assets/images/country_flags/4x3/pe.svg",
+    "iso": true,
+    "name": "ペルー"
+  },
+  {
+    "capital": "Manila",
+    "code": "ph",
+    "continent": "アジア",
+    "flag_1x1": "assets/images/country_flags/1x1/ph.svg",
+    "flag_4x3": "assets/images/country_flags/4x3/ph.svg",
+    "iso": true,
+    "name": "フィリピン"
+  },
+  {
+    "capital": "Warsaw",
+    "code": "pl",
+    "continent": "ヨーロッパ",
+    "flag_1x1": "assets/images/country_flags/1x1/pl.svg",
+    "flag_4x3": "assets/images/country_flags/4x3/pl.svg",
+    "iso": true,
+    "name": "ポーランド"
+  },
+  {
+    "capital": "Lisbon",
+    "code": "pt",
+    "continent": "ヨーロッパ",
+    "flag_1x1": "assets/images/country_flags/1x1/pt.svg",
+    "flag_4x3": "assets/images/country_flags/4x3/pt.svg",
+    "iso": true,
+    "name": "ポルトガル"
+  },
+  {
+    "capital": "Doha",
+    "code": "qa",
+    "continent": "アジア",
+    "flag_1x1": "assets/images/country_flags/1x1/qa.svg",
+    "flag_4x3": "assets/images/country_flags/4x3/qa.svg",
+    "iso": true,
+    "name": "カタール"
+  },
+  {
+    "capital": "Bucharest",
+    "code": "ro",
+    "continent": "ヨーロッパ",
+    "flag_1x1": "assets/images/country_flags/1x1/ro.svg",
+    "flag_4x3": "assets/images/country_flags/4x3/ro.svg",
+    "iso": true,
+    "name": "ルーマニア"
+  },
+  {
+    "capital": "Moscow",
+    "code": "ru",
+    "continent": "ヨーロッパ",
+    "flag_1x1": "assets/images/country_flags/1x1/ru.svg",
+    "flag_4x3": "assets/images/country_flags/4x3/ru.svg",
+    "iso": true,
+    "name": "ロシア"
+  },
+  {
+    "capital": "Kigali",
+    "code": "rw",
+    "continent": "アフリカ",
+    "flag_1x1": "assets/images/country_flags/1x1/rw.svg",
+    "flag_4x3": "assets/images/country_flags/4x3/rw.svg",
+    "iso": true,
+    "name": "ルワンダ"
+  },
+  {
+    "capital": "Basseterre",
+    "code": "kn",
+    "continent": "北アメリカ",
+    "flag_1x1": "assets/images/country_flags/1x1/kn.svg",
+    "flag_4x3": "assets/images/country_flags/4x3/kn.svg",
+    "iso": true,
+    "name": "セントクリストファー・ネーヴィス"
+  },
+  {
+    "capital": "Castries",
+    "code": "lc",
+    "continent": "北アメリカ",
+    "flag_1x1": "assets/images/country_flags/1x1/lc.svg",
+    "flag_4x3": "assets/images/country_flags/4x3/lc.svg",
+    "iso": true,
+    "name": "セントルシア"
+  },
+  {
+    "capital": "Kingstown",
+    "code": "vc",
+    "continent": "北アメリカ",
+    "flag_1x1": "assets/images/country_flags/1x1/vc.svg",
+    "flag_4x3": "assets/images/country_flags/4x3/vc.svg",
+    "iso": true,
+    "name": "セントビンセント及びグレナディーン諸島"
+  },
+  {
+    "capital": "Apia",
+    "code": "ws",
+    "continent": "オセアニア",
+    "flag_1x1": "assets/images/country_flags/1x1/ws.svg",
+    "flag_4x3": "assets/images/country_flags/4x3/ws.svg",
+    "iso": true,
+    "name": "サモア"
+  },
+  {
+    "capital": "San Marino",
+    "code": "sm",
+    "continent": "ヨーロッパ",
+    "flag_1x1": "assets/images/country_flags/1x1/sm.svg",
+    "flag_4x3": "assets/images/country_flags/4x3/sm.svg",
+    "iso": true,
+    "name": "サンマリノ"
+  },
+  {
+    "capital": "Riyadh",
+    "code": "sa",
+    "continent": "アジア",
+    "flag_1x1": "assets/images/country_flags/1x1/sa.svg",
+    "flag_4x3": "assets/images/country_flags/4x3/sa.svg",
+    "iso": true,
+    "name": "サウジアラビア"
+  },
+  {
+    "capital": "Dakar",
+    "code": "sn",
+    "continent": "アフリカ",
+    "flag_1x1": "assets/images/country_flags/1x1/sn.svg",
+    "flag_4x3": "assets/images/country_flags/4x3/sn.svg",
+    "iso": true,
+    "name": "セネガル"
+  },
+  {
+    "capital": "Belgrade",
+    "code": "rs",
+    "continent": "ヨーロッパ",
+    "flag_1x1": "assets/images/country_flags/1x1/rs.svg",
+    "flag_4x3": "assets/images/country_flags/4x3/rs.svg",
+    "iso": true,
+    "name": "セルビア"
+  },
+  {
+    "capital": "Victoria",
+    "code": "sc",
+    "continent": "アフリカ",
+    "flag_1x1": "assets/images/country_flags/1x1/sc.svg",
+    "flag_4x3": "assets/images/country_flags/4x3/sc.svg",
+    "iso": true,
+    "name": "セーシェル"
+  },
+  {
+    "capital": "Freetown",
+    "code": "sl",
+    "continent": "アフリカ",
+    "flag_1x1": "assets/images/country_flags/1x1/sl.svg",
+    "flag_4x3": "assets/images/country_flags/4x3/sl.svg",
+    "iso": true,
+    "name": "シエラレオネ"
+  },
+  {
+    "capital": "Singapore",
+    "code": "sg",
+    "continent": "アジア",
+    "flag_1x1": "assets/images/country_flags/1x1/sg.svg",
+    "flag_4x3": "assets/images/country_flags/4x3/sg.svg",
+    "iso": true,
+    "name": "シンガポール"
+  },
+  {
+    "capital": "Bratislava",
+    "code": "sk",
+    "continent": "ヨーロッパ",
+    "flag_1x1": "assets/images/country_flags/1x1/sk.svg",
+    "flag_4x3": "assets/images/country_flags/4x3/sk.svg",
+    "iso": true,
+    "name": "スロバキア"
+  },
+  {
+    "capital": "Ljubljana",
+    "code": "si",
+    "continent": "ヨーロッパ",
+    "flag_1x1": "assets/images/country_flags/1x1/si.svg",
+    "flag_4x3": "assets/images/country_flags/4x3/si.svg",
+    "iso": true,
+    "name": "スロベニア"
+  },
+  {
+    "capital": "Honiara",
+    "code": "sb",
+    "continent": "オセアニア",
+    "flag_1x1": "assets/images/country_flags/1x1/sb.svg",
+    "flag_4x3": "assets/images/country_flags/4x3/sb.svg",
+    "iso": true,
+    "name": "ソロモン諸島"
+  },
+  {
+    "capital": "Mogadishu",
+    "code": "so",
+    "continent": "アフリカ",
+    "flag_1x1": "assets/images/country_flags/1x1/so.svg",
+    "flag_4x3": "assets/images/country_flags/4x3/so.svg",
+    "iso": true,
+    "name": "ソマリア"
+  },
+  {
+    "capital": "Pretoria",
+    "code": "za",
+    "continent": "アフリカ",
+    "flag_1x1": "assets/images/country_flags/1x1/za.svg",
+    "flag_4x3": "assets/images/country_flags/4x3/za.svg",
+    "iso": true,
+    "name": "南アフリカ"
+  },
+  {
+    "capital": "Seoul",
+    "code": "kr",
+    "continent": "アジア",
+    "flag_1x1": "assets/images/country_flags/1x1/kr.svg",
+    "flag_4x3": "assets/images/country_flags/4x3/kr.svg",
+    "iso": true,
+    "name": "韓国"
+  },
+  {
+    "capital": "Juba",
+    "code": "ss",
+    "continent": "アフリカ",
+    "flag_1x1": "assets/images/country_flags/1x1/ss.svg",
+    "flag_4x3": "assets/images/country_flags/4x3/ss.svg",
+    "iso": true,
+    "name": "南スーダン"
+  },
+  {
+    "capital": "Madrid",
+    "code": "es",
+    "continent": "ヨーロッパ",
+    "flag_1x1": "assets/images/country_flags/1x1/es.svg",
+    "flag_4x3": "assets/images/country_flags/4x3/es.svg",
+    "iso": true,
+    "name": "スペイン"
+  },
+  {
+    "capital": "Sri Jayawardenepura Kotte, Colombo",
+    "code": "lk",
+    "continent": "アジア",
+    "flag_1x1": "assets/images/country_flags/1x1/lk.svg",
+    "flag_4x3": "assets/images/country_flags/4x3/lk.svg",
+    "iso": true,
+    "name": "スリランカ"
+  },
+  {
+    "capital": "Khartoum",
+    "code": "sd",
+    "continent": "アフリカ",
+    "flag_1x1": "assets/images/country_flags/1x1/sd.svg",
+    "flag_4x3": "assets/images/country_flags/4x3/sd.svg",
+    "iso": true,
+    "name": "スーダン"
+  },
+  {
+    "capital": "Paramaribo",
+    "code": "sr",
+    "continent": "南アメリカ",
+    "flag_1x1": "assets/images/country_flags/1x1/sr.svg",
+    "flag_4x3": "assets/images/country_flags/4x3/sr.svg",
+    "iso": true,
+    "name": "スリナム"
+  },
+  {
+    "capital": "Stockholm",
+    "code": "se",
+    "continent": "ヨーロッパ",
+    "flag_1x1": "assets/images/country_flags/1x1/se.svg",
+    "flag_4x3": "assets/images/country_flags/4x3/se.svg",
+    "iso": true,
+    "name": "スウェーデン"
+  },
+  {
+    "capital": "Bern",
+    "code": "ch",
+    "continent": "ヨーロッパ",
+    "flag_1x1": "assets/images/country_flags/1x1/ch.svg",
+    "flag_4x3": "assets/images/country_flags/4x3/ch.svg",
+    "iso": true,
+    "name": "スイス"
+  },
+  {
+    "capital": "Damascus",
+    "code": "sy",
+    "continent": "アジア",
+    "flag_1x1": "assets/images/country_flags/1x1/sy.svg",
+    "flag_4x3": "assets/images/country_flags/4x3/sy.svg",
+    "iso": true,
+    "name": "シリア"
+  },
+  {
+    "capital": "Dushanbe",
+    "code": "tj",
+    "continent": "アジア",
+    "flag_1x1": "assets/images/country_flags/1x1/tj.svg",
+    "flag_4x3": "assets/images/country_flags/4x3/tj.svg",
+    "iso": true,
+    "name": "タジキスタン"
+  },
+  {
+    "capital": "Dodoma",
+    "code": "tz",
+    "continent": "アフリカ",
+    "flag_1x1": "assets/images/country_flags/1x1/tz.svg",
+    "flag_4x3": "assets/images/country_flags/4x3/tz.svg",
+    "iso": true,
+    "name": "タンザニア"
+  },
+  {
+    "capital": "Bangkok",
+    "code": "th",
+    "continent": "アジア",
+    "flag_1x1": "assets/images/country_flags/1x1/th.svg",
+    "flag_4x3": "assets/images/country_flags/4x3/th.svg",
+    "iso": true,
+    "name": "タイ"
+  },
+  {
+    "capital": "Dili",
+    "code": "tl",
+    "continent": "アジア",
+    "flag_1x1": "assets/images/country_flags/1x1/tl.svg",
+    "flag_4x3": "assets/images/country_flags/4x3/tl.svg",
+    "iso": true,
+    "name": "東ティモール"
+  },
+  {
+    "capital": "Lomé",
+    "code": "tg",
+    "continent": "アフリカ",
+    "flag_1x1": "assets/images/country_flags/1x1/tg.svg",
+    "flag_4x3": "assets/images/country_flags/4x3/tg.svg",
+    "iso": true,
+    "name": "トーゴ"
+  },
+  {
+    "capital": "Nukuʻalofa",
+    "code": "to",
+    "continent": "オセアニア",
+    "flag_1x1": "assets/images/country_flags/1x1/to.svg",
+    "flag_4x3": "assets/images/country_flags/4x3/to.svg",
+    "iso": true,
+    "name": "トンガ"
+  },
+  {
+    "capital": "Port of Spain",
+    "code": "tt",
+    "continent": "南アメリカ",
+    "flag_1x1": "assets/images/country_flags/1x1/tt.svg",
+    "flag_4x3": "assets/images/country_flags/4x3/tt.svg",
+    "iso": true,
+    "name": "トリニダード・トバゴ"
+  },
+  {
+    "capital": "Tunis",
+    "code": "tn",
+    "continent": "アフリカ",
+    "flag_1x1": "assets/images/country_flags/1x1/tn.svg",
+    "flag_4x3": "assets/images/country_flags/4x3/tn.svg",
+    "iso": true,
+    "name": "チュニジア"
+  },
+  {
+    "capital": "Ashgabat",
+    "code": "tm",
+    "continent": "アジア",
+    "flag_1x1": "assets/images/country_flags/1x1/tm.svg",
+    "flag_4x3": "assets/images/country_flags/4x3/tm.svg",
+    "iso": true,
+    "name": "トルクメニスタン"
+  },
+  {
+    "capital": "Funafuti",
+    "code": "tv",
+    "continent": "オセアニア",
+    "flag_1x1": "assets/images/country_flags/1x1/tv.svg",
+    "flag_4x3": "assets/images/country_flags/4x3/tv.svg",
+    "iso": true,
+    "name": "ツバル"
+  },
+  {
+    "capital": "Kampala",
+    "code": "ug",
+    "continent": "アフリカ",
+    "flag_1x1": "assets/images/country_flags/1x1/ug.svg",
+    "flag_4x3": "assets/images/country_flags/4x3/ug.svg",
+    "iso": true,
+    "name": "ウガンダ"
+  },
+  {
+    "capital": "Kiev",
+    "code": "ua",
+    "continent": "ヨーロッパ",
+    "flag_1x1": "assets/images/country_flags/1x1/ua.svg",
+    "flag_4x3": "assets/images/country_flags/4x3/ua.svg",
+    "iso": true,
+    "name": "ウクライナ"
+  },
+  {
+    "capital": "Abu Dhabi",
+    "code": "ae",
+    "continent": "アジア",
+    "flag_1x1": "assets/images/country_flags/1x1/ae.svg",
+    "flag_4x3": "assets/images/country_flags/4x3/ae.svg",
+    "iso": true,
+    "name": "アラブ首長国連邦"
+  },
+  {
+    "capital": "London",
+    "code": "gb",
+    "continent": "ヨーロッパ",
+    "flag_1x1": "assets/images/country_flags/1x1/gb.svg",
+    "flag_4x3": "assets/images/country_flags/4x3/gb.svg",
+    "iso": true,
+    "name": "イギリス"
+  },
+  {
+    "capital": "Montevideo",
+    "code": "uy",
+    "continent": "南アメリカ",
+    "flag_1x1": "assets/images/country_flags/1x1/uy.svg",
+    "flag_4x3": "assets/images/country_flags/4x3/uy.svg",
+    "iso": true,
+    "name": "ウルグアイ"
+  },
+  {
+    "capital": "Tashkent",
+    "code": "uz",
+    "continent": "アジア",
+    "flag_1x1": "assets/images/country_flags/1x1/uz.svg",
+    "flag_4x3": "assets/images/country_flags/4x3/uz.svg",
+    "iso": true,
+    "name": "ウズベキスタン"
+  },
+  {
+    "capital": "Port Vila",
+    "code": "vu",
+    "continent": "オセアニア",
+    "flag_1x1": "assets/images/country_flags/1x1/vu.svg",
+    "flag_4x3": "assets/images/country_flags/4x3/vu.svg",
+    "iso": true,
+    "name": "バヌアツ"
+  },
+  {
+    "capital": "Caracas",
+    "code": "ve",
+    "continent": "南アメリカ",
+    "flag_1x1": "assets/images/country_flags/1x1/ve.svg",
+    "flag_4x3": "assets/images/country_flags/4x3/ve.svg",
+    "iso": true,
+    "name": "ベネズエラ"
+  },
+  {
+    "capital": "Hanoi",
+    "code": "vn",
+    "continent": "アジア",
+    "flag_1x1": "assets/images/country_flags/1x1/vn.svg",
+    "flag_4x3": "assets/images/country_flags/4x3/vn.svg",
+    "iso": true,
+    "name": "ベトナム"
+  },
+  {
+    "capital": "Sana'a",
+    "code": "ye",
+    "continent": "アジア",
+    "flag_1x1": "assets/images/country_flags/1x1/ye.svg",
+    "flag_4x3": "assets/images/country_flags/4x3/ye.svg",
+    "iso": true,
+    "name": "イエメン"
+  },
+  {
+    "capital": "Lusaka",
+    "code": "zm",
+    "continent": "アフリカ",
+    "flag_1x1": "assets/images/country_flags/1x1/zm.svg",
+    "flag_4x3": "assets/images/country_flags/4x3/zm.svg",
+    "iso": true,
+    "name": "ザンビア"
+  },
+  {
+    "capital": "Harare",
+    "code": "zw",
+    "continent": "アフリカ",
+    "flag_1x1": "assets/images/country_flags/1x1/zw.svg",
+    "flag_4x3": "assets/images/country_flags/4x3/zw.svg",
+    "iso": true,
+    "name": "ジンバブエ"
+  }
+]

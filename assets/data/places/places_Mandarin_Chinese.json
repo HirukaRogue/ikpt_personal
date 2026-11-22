@@ -1,0 +1,27 @@
+[
+  {
+    "placeName": "Matterhorn",
+    "countryBelonging": "瑞士",
+    "description": "阿尔卑斯山脉中一座标志性的金字塔形山峰，位于瑞士和意大利交界处，以其壮丽的轮廓和为三角巧克力（Toblerone）设计提供灵感而闻名。"
+  },
+  {
+    "placeName": "Hallstatt",
+    "countryBelonging": "奥地利",
+    "description": "奥地利一个风景如画的湖边村庄，以其阿尔卑斯风光、悠久的产盐历史和明信片般的绝美景色而闻名。"
+  },
+  {
+    "placeName": "Lofoten Islands",
+    "countryBelonging": "挪威",
+    "description": "挪威北部令人惊叹的北极群岛，以险峻的山峰、渔村以及极佳的极光观测机会而著称。"
+  },
+  {
+    "placeName": "Kilimanjaro",
+    "countryBelonging": "坦桑尼亚",
+    "description": "乞力马扎罗山是非洲最高的山脉，也是赤道附近著名的白雪皑皑的独立火山。"
+  },
+  {
+    "placeName": "AngkorWat",
+    "countryBelonging": "柬埔寨",
+    "description": "吴哥窟是世界上最大的宗教纪念碑，是一个始建于12世纪的非凡寺庙群。"
+  }
+]
